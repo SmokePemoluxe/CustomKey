@@ -3,4 +3,5 @@ LED = False #Есть ли LED
 WORDS = False #Есть ли поддержка бинда слов
 DOUBLE_CLICK = False #Поддержка двойного клика
 TRIPPLE_CLICK = False #Поддержка тройного клика
+Encoder = {}
 keys = {0:[110, 85, 114, 113], 1:[235, 85, 114, 113]}
