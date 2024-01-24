@@ -1,6 +1,7 @@
 {
   "version": 2.0,
   "downloading_files": [
-    "UCustomKey.exe"
+    "CustomKey.exe",
+	"devices/avrUpdater/updater_avr.bat"
   ]
 }
