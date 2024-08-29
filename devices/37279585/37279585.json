@@ -1,11 +1,11 @@
 {
-  "name": "Denis O",
+  "name": "Alexey",
   "profiles_names": [
-    "Первый",
-    "Второй",
-    "Третий",
-    "Четвертый",
-    "Пятый"
+    "NumPad",
+    "Word",
+    "Blender",
+    "Lethal C",
+    "S. Vegas"
   ],
   "keys": {
     "0": [
@@ -111,5 +111,5 @@
     151,
     131
   ],
-  "HUD": 1
+  "HUD": 0
 }
