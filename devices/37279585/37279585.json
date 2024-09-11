@@ -1,5 +1,6 @@
 {
   "name": "Alexey",
+  "detect_active_programms": true,
   "profiles_names": [
     "NumPad",
     "Word",
@@ -111,5 +112,5 @@
     151,
     131
   ],
-  "HUD": 0
+  "HUD": 2
 }
