@@ -2,7 +2,7 @@
   "version": 2.02,
   "downloading_files": [
     "CustomKey.exe",
-	"devices/avrUpdater/updater_avr.bat",
-	"CKinfo_sender.exe"
+	"CKinfo_sender.exe",
+	"devices/avrUpdater/updater_avr.bat"
   ]
 }
