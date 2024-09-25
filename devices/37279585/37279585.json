@@ -112,6 +112,11 @@
     151,
     131
   ],
+<<<<<<< Updated upstream
   "HUD": 2,
   "detect_programms": 1
+=======
+  "HUD": 0,
+  "detect_programms": 0
+>>>>>>> Stashed changes
 }

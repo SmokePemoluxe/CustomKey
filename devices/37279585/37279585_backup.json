@@ -36,5 +36,6 @@
     151,
 	131
   ],
-  "HUD": 0
+  "HUD": 0,
+  "detect_programms": 0
 }

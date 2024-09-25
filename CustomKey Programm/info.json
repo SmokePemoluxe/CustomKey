@@ -1,7 +1,8 @@
 {
-  "version": 2.01,
+  "version": 2.02,
   "downloading_files": [
     "CustomKey.exe",
-	"devices/avrUpdater/updater_avr.bat"
+	"devices/avrUpdater/updater_avr.bat",
+	"CKinfo_sender.exe"
   ]
 }

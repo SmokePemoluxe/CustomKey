@@ -111,5 +111,6 @@
     151,
     131
   ],
-  "HUD": 1
+  "HUD": 1,
+  "detect_programms": 0
 }

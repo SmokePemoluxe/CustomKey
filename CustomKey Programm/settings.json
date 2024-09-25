@@ -1,4 +1,5 @@
 {
     "autorun_dialog": true,
-    "update_startup": false
+    "update_startup": false,
+	"detect_active_programms": false
 }
