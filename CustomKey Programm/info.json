@@ -1,0 +1,8 @@
+{
+  "version": 2.06,
+  "downloading_files": [
+    "CustomKey.exe",
+	"CKinfo_sender.exe",
+	"devices/avrUpdater/updater_avr.bat"
+  ]
+}
