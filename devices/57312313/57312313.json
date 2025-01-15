@@ -1,7 +1,7 @@
 {
-  "name": "CustomKey",
+  "name": "Премиум",
   "profiles_names": [
-    "1",
+    "Дом ПК",
     "2",
     "3",
     "4",
@@ -93,6 +93,6 @@
     0,
     0
   ],
-  "HUD": 1,
+  "HUD": 2,
   "detect_programms": 0
 }
